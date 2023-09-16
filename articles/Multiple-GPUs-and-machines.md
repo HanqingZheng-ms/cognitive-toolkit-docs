@@ -1,5 +1,5 @@
 ---
-title:   Multiple GPUs and Machines
+title: Guide to Parallel SGD Algorithms in CNTK
 author:    chrisbasoglu
 ms.author:   cbasoglu
 ms.date:  07/31/2017
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   brainscript, python
+description: Explore the comprehensive guide to parallel Stochastic Gradient Descent (SGD) algorithms in Microsoft's Cognitive Toolkit (CNTK). Learn about DataParallelSGD, BlockMomentumSGD, ModelAveragingSGD, and more.
 ---
 
 # Multiple GPUs and Machines

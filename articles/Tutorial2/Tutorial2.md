@@ -1,5 +1,5 @@
 ---
-title:   Tutorial 2
+title: 'Deep Learning with CNTK Tutorial: Neural Networks and CNNs'
 author:    chrisbasoglu
 ms.author:   cbasoglu
 ms.date:   11/14/2016
@@ -7,6 +7,7 @@ ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.service:  Cognitive-services
 ms.devlang:   brainscript
+description: Learn to build complex models like neural networks and convolutional neural networks using CNTK. Understand important CNTK concepts and how to use Python script for MNIST data preparation. Explore the benefits of Batch Normalization in training.
 ---
 
 # Tutorial 2

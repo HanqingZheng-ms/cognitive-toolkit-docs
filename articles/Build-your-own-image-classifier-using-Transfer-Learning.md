@@ -1,5 +1,5 @@
 ---
-title:   Build your own image classifier using Transfer Learning
+title: Build Custom Image Classifier with Transfer Learning Tutorial
 author:    chrisbasoglu
 ms.author:   cbasoglu
 ms.date:   02/14/2017
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   python
+description: Learn how to build your own image classifier using transfer learning. This tutorial guides you through training a classifier for different image categories using a pretrained ResNet_18 model.
 ---
 
 # Build your own image classifier using Transfer Learning
