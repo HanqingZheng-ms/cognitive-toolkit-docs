@@ -1,5 +1,5 @@
 ---
-title:   Object  detection using Fast R-CNN
+title: Fast R-CNN Object Detection Tutorial with CNTK
 author:    pkranen
 ms.author:   pkranen
 ms.date:   08/30/2017
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   brainscript
+description: Learn how to use CNTK Fast R-CNN for object detection. This tutorial covers setup, running examples, training on your own data, and technical details.
 ---
 
 # Object  detection using Fast R-CNN
