@@ -1,5 +1,5 @@
 ---
-title:   Troubleshoot
+title: Troubleshooting Guide for CNTK Binary Classifier
 author:    chrisbasoglu
 ms.author:   cbasoglu
 ms.date:   04/03/2017
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Find solutions to common issues encountered during training and evaluation of CNTK binary classifier. Includes tips on memory management, stack size, and CUDA installation.
 ---
 
 # Troubleshoot

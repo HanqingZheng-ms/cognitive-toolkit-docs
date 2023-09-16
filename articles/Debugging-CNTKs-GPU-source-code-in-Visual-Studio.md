@@ -1,5 +1,5 @@
 ---
-title:   Debugging CNTK source code in Visual Studio
+title: Debugging CNTK Source Code Using Visual Studio
 author:    chrisbasoglu
 ms.author:   cbasoglu
 ms.date:   11/14/2016
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Step-by-step guide on how to debug CNTK source code in Visual Studio using NVIDIA Nsight. Learn to set environment variables, configure CUDA options, and use GPU Debug Information.
 ---
 
 # Debugging CNTK source code in Visual Studio

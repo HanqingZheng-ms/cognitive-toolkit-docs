@@ -1,5 +1,5 @@
 ---
-title:   Getting Started With the Microsoft Cognitive Toolkit
+title: Getting Started with Microsoft Cognitive Toolkit
 author:    wolfma
 ms.author:   cbasoglu
 ms.date:   03/27/2018
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Learn how to install CNTK from precompiled binaries or build from source code. Explore tutorials, examples, and use via Azure Virtual Machine or Docker container.
 ---
 # Getting Started With the Microsoft Cognitive Toolkit
 

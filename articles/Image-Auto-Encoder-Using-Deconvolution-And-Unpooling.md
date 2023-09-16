@@ -1,11 +1,12 @@
 ---
-title:   Image Auto Encoder using deconvolution and unpooling
+title: Image Auto Encoder Using Deconvolution and Unpooling Guide
 author:    chrisbasoglu
 ms.author:   cbasoglu
 ms.date:   01/20/2017
 ms.prod: cntk
 ms.topic:   conceptual
 ms.devlang:   python
+description: Learn how to use Deconvolution and Unpooling to generate a simple image auto encoder. This guide includes setup instructions, running the example, and technical details.
 ---
 
 # Image Auto Encoder using deconvolution and unpooling
