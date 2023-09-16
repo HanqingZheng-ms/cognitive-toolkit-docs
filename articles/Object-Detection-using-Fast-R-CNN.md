@@ -1,5 +1,5 @@
 ---
-title:   Object  detection using Fast R-CNN
+title: Fast R-CNN Object Detection Tutorial and Technical Details
 author:    pkranen
 ms.author:   pkranen
 ms.date:   08/30/2017
@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   python
+description: Learn how to use Fast R-CNN for object detection with this comprehensive tutorial. Includes setup instructions, training on your own data, technical details, and more.
 ---
 
 # Object  detection using Fast R-CNN
