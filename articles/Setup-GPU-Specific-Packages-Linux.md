@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   quickstart
 ms.devlang:   python
+description: Learn how to setup GPU specific packages on Linux for CNTK to leverage NVIDIA GPUs. Includes CUDA 9.0 Toolkit installation guide.
 ---
 
 # Setup GPU specific packages on Linux 
