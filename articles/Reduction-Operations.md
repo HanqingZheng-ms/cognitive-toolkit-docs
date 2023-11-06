@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Learn about reduction operations in Microsoft's Cognitive Toolkit. Understand how to compute aggregates like sum, mean, and more over input vectors or tensors.
 ---
 
 # Reduction operations

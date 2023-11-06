@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Explore the optimized CuDNN5 RNN stack for efficient implementation of recurrent networks. Learn about its parameters, description, and usage in speech recognition.
 ---
 
 # Optimized RNN Stack

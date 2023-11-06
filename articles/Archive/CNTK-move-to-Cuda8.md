@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Explore the transition of Microsoft's Cognitive Toolkit (CNTK) to NVIDIA CUDA 8.0 for GPU accelerated applications. Learn about the benefits and how to upgrade.
 ---
 
 # CNTK moves to Cuda 8

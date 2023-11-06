@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   get-started-article
 ms.devlang:  cpp
+description: Master the CNTK Library Eval C++ API with this comprehensive guide. Learn how to load models, evaluate functions, create values, and more. Perfect for developers.
 ---
 
 # CNTK Library Eval C++ API

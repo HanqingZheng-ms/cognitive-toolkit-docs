@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   quickstart
 ms.devlang:   python
+description: Learn how to test your CNTK install with Python on Microsoft's official site. Includes step-by-step guide to run samples and tutorials.
 ---
 
 # Setup Test Python

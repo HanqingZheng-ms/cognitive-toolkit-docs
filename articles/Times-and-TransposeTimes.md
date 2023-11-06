@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Explore Microsoft's CNTK matrix product functions, Times() and TransposeTimes(). Learn about their parameters, return values, and usage in tensor operations.
 ---
 
 # Times and TransposeTimes
