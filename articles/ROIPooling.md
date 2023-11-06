@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Explore Microsoft's comprehensive guide on ROI-pooling operation, its computation, and the role of spatial scale in image processing. Learn more now.
 ---
 
 # ROIPooling
