@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   brainscript
+description: Learn how to edit models with BrainScript in CNTK. Discover functions for loading, cloning, and modifying models, with practical examples.
 ---
 
 # Model  Editing with BrainScript

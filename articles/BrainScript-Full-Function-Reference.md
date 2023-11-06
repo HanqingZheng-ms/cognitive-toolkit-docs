@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   brainscript
+description: Explore the full function reference for BrainScript on Microsoft's Cognitive Toolkit. Learn about built-in functions, layers, and operations.
 ---
 
 # BrainScript Full Function Reference
