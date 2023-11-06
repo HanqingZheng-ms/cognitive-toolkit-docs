@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   cpp
+description: Explore the EvalDLL C# API on Microsoft's learning platform. Learn how to evaluate models, build networks, and more with this comprehensive guide.
 ---
 
 # EvalDLL C# API
