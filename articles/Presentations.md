@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Explore deep learning with Microsoft's Cognitive Toolkit (CNTK) through expert presentations, tutorials, and hands-on guides. Dive in now.
 ---
 
 # Presentations
