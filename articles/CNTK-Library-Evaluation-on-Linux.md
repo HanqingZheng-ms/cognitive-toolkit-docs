@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   cpp
+description: Learn how to evaluate models on Linux using the CNTK Library in C++, Python, and Java. Detailed instructions and examples provided.
 ---
 
 # Model Evaluation on Linux

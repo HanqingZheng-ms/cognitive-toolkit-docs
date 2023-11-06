@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   brainscript,cpp, csharp,dotnet,python
+description: Learn how to save and store models in CNTK with different formats using BrainScript, Python, or C++. Explore the CNTK model format guide.
 ---
 
 # CNTK model format

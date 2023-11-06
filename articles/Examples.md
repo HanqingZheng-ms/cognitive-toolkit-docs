@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   python, brainscript, csharp
+description: Explore CNTK examples in Python, C#, and BrainScript for image, language understanding, and speech on Microsoft's Cognitive Toolkit.
 ---
 
 # CNTK Examples

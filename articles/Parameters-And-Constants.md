@@ -7,6 +7,7 @@ ms.prod: cntk
 ms.custom:   cognitive-toolkit
 ms.topic:   conceptual
 ms.devlang:   NA
+description: Explore Microsoft's guide on creating and understanding parameters and constants in cognitive toolkits. Learn about tensor creation, initialization, and more.
 ---
 
 # Parameters And constants
