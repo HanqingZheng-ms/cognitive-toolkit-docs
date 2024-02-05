@@ -31,6 +31,7 @@
 		"overwrite": [],
 		"externalReference": [],
 		"globalMetadata": {
+			"feedback_product_url": "ss",
 			"brand": "azure",
 			"breadcrumb_path": "/cognitive-toolkit/breadcrumb/TOC.json",
 			"searchScope": ["Cognitive Toolkit"],
